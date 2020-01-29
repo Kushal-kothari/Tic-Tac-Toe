@@ -5,8 +5,8 @@ current_player = "X"
 
 board = ["-","-","-",
 		 "-","-","-",
-		 "-","-","-"]
-
+		 "-","-","-"] 
+#this is a board where the game is going to be get played.Period
 def display_board():
 	print(board[0] + " | " + board[1] + " | " + board[2] )
 	print(board[3] + " | " + board[4] + " | " + board[5] )
