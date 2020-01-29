@@ -1,4 +1,4 @@
-game_still_going = True
+game_still_going = True #bool value
 winner = None
 
 current_player = "X"
