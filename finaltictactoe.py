@@ -32,7 +32,7 @@ game_still_going = True
 	
 	def handle_turn(player):
 		print(player + "'s turn.")
-		position = input("Choose a position from 1-9 fast: " )
+		position = input("Choose a position from 1-9 : " )
 	
 		valid = False
 		while not valid:
