@@ -46,7 +46,7 @@ game_still_going = True
 			if brd[position] == "-":
 				valid = True
 			else :
-				print("you cant go there.go again.") 
+				print("You cannot go there AGAIN") 
 	
 		brd[position]= player
 		show_brd()
@@ -156,7 +156,7 @@ game_still_going = True
 		elif cur_player == "O":
 			cur_player = "X"	
 			
-		return	
+		return	x
 	
 	play_game()
 	
