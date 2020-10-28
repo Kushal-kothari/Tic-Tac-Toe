@@ -156,7 +156,7 @@ game_still_going = True
 		elif cur_player == "O":
 			cur_player = "X"	
 			
-		return	x
+		return
 	
 	play_game()
 	
