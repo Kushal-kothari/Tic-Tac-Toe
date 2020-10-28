@@ -28,7 +28,7 @@ game_still_going = True
 		if winner == "X" or winner == "O":
 			print(winner + " won.")	
 		elif winner == None:
-			print(" Tie.")	
+			print(" Tie. ")	
 	
 	def handle_turn(player):
 		print(player + "'s turn.")
