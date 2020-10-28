@@ -38,7 +38,7 @@ game_still_going = True
 		while not valid:
 	
 			while position not in ["1","2","3","4","4","6","7","8","9"]:
-				position = input("Choose a position from 1-9: " )
+				position = input("Choose a position from 1-9 only: " )
 	
 	
 			position = int(position) - 1
