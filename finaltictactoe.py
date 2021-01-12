@@ -106,7 +106,7 @@ game_still_going = True
 	  # Check if any of the columns have all the same value (and is not empty)
 	  column_1 = brd[0] == brd[3] == brd[6] != "-"
 	  column_2 = brd[1] == brd[4] == brd[7] != "-"
-	  column_3 = brd[2] == brd[5] == brd[9] != "-"
+	  column_3 = brd[2] == brd[5] == brd[8] != "-"
 	  # If any row does have a match, flag that there is a win
 	  if column_1 or column_2 or column_3:
 	    game_still_going = False
