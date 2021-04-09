@@ -137,7 +137,7 @@ game_still_going = True
 	    return brd[0] 
 	  elif diagonal_2:
 	    return brd[2]
-	  # Or return None if there was no winner
+	  # Or return None if there was no winner.
 	  else:
 	    return None
 	
