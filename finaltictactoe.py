@@ -29,7 +29,7 @@ def play_game():
 	elif winner == None:
 		print(" Tie. ")	
 
-def handle_turn(player, position='take'):
+def handle_turn(player, position='take' ):
 	print(player + "'s turn.")
 	if position == 'take' :
 		position = input("Choose a Position from 1-9 : " )
