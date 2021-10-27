@@ -161,17 +161,18 @@ def flip_player():
 #play_game()
 
 
-
-
+#please check this program again
 
 
 
 #show the brd
 #play game
 #flip between players
+#pup
 #check win
 	#rows
 	#columns
+
 	#diagonals
 #check tie
 
