@@ -165,7 +165,7 @@ def flip_player():
 
 
 
-#brd
+
 #show the brd
 #play game
 #flip between players
