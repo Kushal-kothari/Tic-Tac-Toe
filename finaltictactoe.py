@@ -164,8 +164,7 @@ def flip_player():
 #please check this program again
 
 
-#hacktoberfest rocks
-#brd
+
 #show the brd
 #play game
 #flip between players
