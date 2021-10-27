@@ -169,6 +169,7 @@ def flip_player():
 #show the brd
 #play game
 #flip between players
+#pup
 #check win
 	#rows
 	#columns
