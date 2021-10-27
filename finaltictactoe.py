@@ -161,11 +161,11 @@ def flip_player():
 #play_game()
 
 
+#please check this program again
 
 
 
-
-#brd
 #show the brd
 #play game
+
 
