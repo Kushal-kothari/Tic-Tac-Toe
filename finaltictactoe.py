@@ -164,15 +164,16 @@ def flip_player():
 
 
 
-
+#hacktoberfest rocks
 #brd
 #show the brd
 #play game
 #flip between players
+#pup
 #check win
 	#rows
 	#columns
-	#sus
+
 	#diagonals
 #check tie
 
