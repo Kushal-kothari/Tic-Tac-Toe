@@ -164,7 +164,7 @@ def flip_player():
 
 
 
-
+#hacktoberfest rocks
 #brd
 #show the brd
 #play game
