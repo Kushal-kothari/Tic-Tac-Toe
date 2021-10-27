@@ -173,7 +173,7 @@ def flip_player():
 #check win
 	#rows
 	#columns
-	#bro
+
 	#diagonals
 #check tie
 
