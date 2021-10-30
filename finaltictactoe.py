@@ -28,6 +28,12 @@ def play_game():
 		print(winner + " won.")	
 	elif winner == None:
 		print(" Tie. ")	
+		
+def check_if_not_tie():
+	global game_still_going
+	if "-" not in brd:
+		game_still_going = True
+	return
 
 def handle_turn(player, position='take' ):
 	print(player + "'s turn.")
