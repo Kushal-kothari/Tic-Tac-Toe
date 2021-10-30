@@ -85,6 +85,7 @@ def check_for_winner():
 		winner=None		
 	return
 
+
 def check_rows():
 		# Set global variables
 	global game_still_going
@@ -147,13 +148,17 @@ def check_diagonals():
 	else:
 		return None
 
-def check_if_tie():
+	
+	
+	
+	
+def check_uniq_tie():
 	global game_still_going
-	if "-" not in brd:
-		game_still_going = False
+	if "-" in brd:
+		game_still_going = null
 	return
 
-
+# will flip current for previous players
 def flip_player():
 	global cur_player
 	if cur_player == "X":
