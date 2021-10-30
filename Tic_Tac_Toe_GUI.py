@@ -31,7 +31,7 @@ def show_result(text) :
     textRect.center = (SCREEN_WIDTH//2, SCREEN_HEIGHT//2)
     screen.blit(text, textRect)
 
-
+#showing grid screen design with width and ondsiplay change
 def show_board() :
     '''
     Display function to show the game board and game state on the screen
