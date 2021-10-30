@@ -7,6 +7,8 @@ import finaltictactoe as game
 
 pygame.init()
 
+
+#can edit dimensions to change window frame
 SCREEN_WIDTH  = 255
 SCREEN_HEIGHT = 255
 
