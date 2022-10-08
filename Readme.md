@@ -1,7 +1,7 @@
 
 # Hexadecimal color values are also supported in all browsers.
 
-# A hexadecimal color is specified with: #RRGGBB.
+# A hexadecimal color is specified with: #RRGGBB!
 
 # RR (red), GG (green) and BB (blue) are hexadecimal integers between 00 and FF specifying the intensity of the color.
 
