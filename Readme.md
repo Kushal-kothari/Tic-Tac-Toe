@@ -1,5 +1,5 @@
 
-# Hexadecimal color values are also supported in all browsers!
+# Hexadecimal color values are also supported in all browsers.
 
 # A hexadecimal color is specified with: #RRGGBB!
 
