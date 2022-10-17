@@ -18,7 +18,7 @@ size = int(len(game.brd)**(1/2))
 width = SCREEN_WIDTH//size
 
 #Create font style to dsiplay text on screen
-font = pygame.font.Font('freesansbold.ttf', 32)
+font = pygame.font.Font('freesansbold.ttf', 31)
 
 
 #Function to display text on screen
