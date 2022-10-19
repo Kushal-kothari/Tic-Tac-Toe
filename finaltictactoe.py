@@ -175,7 +175,7 @@ def flip_player():
 
 #please check this program again
 
-
+#check once
 
 #show the brd
 #play game
