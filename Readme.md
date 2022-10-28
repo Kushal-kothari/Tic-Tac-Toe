@@ -17,3 +17,4 @@ The two players take turns putting marks on a 3x3 board. The goal of Tic Tac Toe
 ### RR (red), GG (green) and BB (blue) are hexadecimal integers between 00 and FF specifying the intensity of the color.
 
 ### For example, #0000FF is displayed as blue, because the blue component is set to its highest value (FF) and the others are set to 00.
+------
