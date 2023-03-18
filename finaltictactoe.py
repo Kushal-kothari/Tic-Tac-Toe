@@ -179,5 +179,5 @@ def flip_player():
 
 #show the brd
 #play game
-
+#Fuck
 
